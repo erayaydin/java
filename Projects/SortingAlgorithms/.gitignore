@@ -1,0 +1,10 @@
+## Intellij
+/.idea
+
+## Java
+*.class
+*.log
+*.jar
+*.zip
+*.war
+
