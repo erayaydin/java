@@ -1,0 +1,3 @@
+[submodule "Projects/food-ordering-project"]
+	path = Projects/food-ordering-project
+	url = git@github.com:erayaydin/food-ordering-project.git
